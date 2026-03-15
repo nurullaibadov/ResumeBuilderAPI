@@ -1,0 +1,5 @@
+using ResumeBuilder.Domain.Enums;
+namespace ResumeBuilder.Application.Features.Templates.DTOs;
+public class TemplateListDto { public Guid Id { get; set; } public string Name { get; set; } = ""; public string? Description { get; set; } public string? ThumbnailUrl { get; set; } public string Category { get; set; } = ""; public bool IsActive { get; set; } public bool IsPremium { get; set; } public int UsageCount { get; set; } public int SortOrder { get; set; } }
+public class TemplateDetailDto : TemplateListDto { public string? PreviewUrl { get; set; } public string? CssStyles { get; set; } public string? HtmlStructure { get; set; } public DateTime CreatedAt { get; set; } }
+public class CreateTemplateDto { public string Name { get; set; } = ""; public string? Description { get; set; } public string? ThumbnailUrl { get; set; } public string? PreviewUrl { get; set; } public TemplateCategory Category { get; set; } = TemplateCategory.Professional; public bool IsActive { get; set; } = true; public bool IsPremium { get; set; } = false; public string? CssStyles { get; set; } public string? HtmlStructure { get; set; } public int SortOrder { get; set; } = 0; }

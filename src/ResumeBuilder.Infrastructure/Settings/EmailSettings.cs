@@ -1,0 +1,2 @@
+namespace ResumeBuilder.Infrastructure.Settings;
+public class EmailSettings { public string SmtpHost { get; set; } = ""; public int SmtpPort { get; set; } = 587; public string SmtpUsername { get; set; } = ""; public string SmtpPassword { get; set; } = ""; public bool UseSsl { get; set; } = false; public string FromEmail { get; set; } = ""; public string FromName { get; set; } = "Resume Builder"; public string FrontendBaseUrl { get; set; } = "http://localhost:3000"; }

@@ -1,0 +1,12 @@
+C:\Users\ibadn\OneDrive\İş masası\ResumeBuilder_fixed\src\ResumeBuilder.Domain\bin\Debug\net8.0\ResumeBuilder.Domain.deps.json
+C:\Users\ibadn\OneDrive\İş masası\ResumeBuilder_fixed\src\ResumeBuilder.Domain\bin\Debug\net8.0\ResumeBuilder.Domain.dll
+C:\Users\ibadn\OneDrive\İş masası\ResumeBuilder_fixed\src\ResumeBuilder.Domain\bin\Debug\net8.0\ResumeBuilder.Domain.pdb
+C:\Users\ibadn\OneDrive\İş masası\ResumeBuilder_fixed\src\ResumeBuilder.Domain\obj\Debug\net8.0\ResumeBuilder.Domain.csproj.AssemblyReference.cache
+C:\Users\ibadn\OneDrive\İş masası\ResumeBuilder_fixed\src\ResumeBuilder.Domain\obj\Debug\net8.0\ResumeBuilder.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibadn\OneDrive\İş masası\ResumeBuilder_fixed\src\ResumeBuilder.Domain\obj\Debug\net8.0\ResumeBuilder.Domain.AssemblyInfoInputs.cache
+C:\Users\ibadn\OneDrive\İş masası\ResumeBuilder_fixed\src\ResumeBuilder.Domain\obj\Debug\net8.0\ResumeBuilder.Domain.AssemblyInfo.cs
+C:\Users\ibadn\OneDrive\İş masası\ResumeBuilder_fixed\src\ResumeBuilder.Domain\obj\Debug\net8.0\ResumeBuilder.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ibadn\OneDrive\İş masası\ResumeBuilder_fixed\src\ResumeBuilder.Domain\obj\Debug\net8.0\ResumeBuilder.Domain.dll
+C:\Users\ibadn\OneDrive\İş masası\ResumeBuilder_fixed\src\ResumeBuilder.Domain\obj\Debug\net8.0\refint\ResumeBuilder.Domain.dll
+C:\Users\ibadn\OneDrive\İş masası\ResumeBuilder_fixed\src\ResumeBuilder.Domain\obj\Debug\net8.0\ResumeBuilder.Domain.pdb
+C:\Users\ibadn\OneDrive\İş masası\ResumeBuilder_fixed\src\ResumeBuilder.Domain\obj\Debug\net8.0\ref\ResumeBuilder.Domain.dll

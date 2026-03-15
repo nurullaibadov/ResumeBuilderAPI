@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "y+vPit2LuIE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ibadn\\OneDrive\\İş masası\\ResumeBuilder_fixed\\src\\ResumeBuilder.Domain\\ResumeBuilder.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ibadn\\.nuget\\packages\\fluentvalidation\\11.9.2\\fluentvalidation.11.9.2.nupkg.sha512"
+  ],
+  "logs": []
+}

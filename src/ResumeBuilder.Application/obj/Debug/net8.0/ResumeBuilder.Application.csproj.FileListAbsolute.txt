@@ -1,0 +1,15 @@
+C:\Users\ibadn\OneDrive\İş masası\ResumeBuilder_fixed\src\ResumeBuilder.Application\obj\Debug\net8.0\ResumeBuilder.Application.csproj.AssemblyReference.cache
+C:\Users\ibadn\OneDrive\İş masası\ResumeBuilder_fixed\src\ResumeBuilder.Application\obj\Debug\net8.0\ResumeBuilder.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibadn\OneDrive\İş masası\ResumeBuilder_fixed\src\ResumeBuilder.Application\obj\Debug\net8.0\ResumeBuilder.Application.AssemblyInfoInputs.cache
+C:\Users\ibadn\OneDrive\İş masası\ResumeBuilder_fixed\src\ResumeBuilder.Application\obj\Debug\net8.0\ResumeBuilder.Application.AssemblyInfo.cs
+C:\Users\ibadn\OneDrive\İş masası\ResumeBuilder_fixed\src\ResumeBuilder.Application\obj\Debug\net8.0\ResumeBuilder.Application.csproj.CoreCompileInputs.cache
+C:\Users\ibadn\OneDrive\İş masası\ResumeBuilder_fixed\src\ResumeBuilder.Application\bin\Debug\net8.0\ResumeBuilder.Application.deps.json
+C:\Users\ibadn\OneDrive\İş masası\ResumeBuilder_fixed\src\ResumeBuilder.Application\bin\Debug\net8.0\ResumeBuilder.Application.dll
+C:\Users\ibadn\OneDrive\İş masası\ResumeBuilder_fixed\src\ResumeBuilder.Application\bin\Debug\net8.0\ResumeBuilder.Application.pdb
+C:\Users\ibadn\OneDrive\İş masası\ResumeBuilder_fixed\src\ResumeBuilder.Application\bin\Debug\net8.0\ResumeBuilder.Domain.dll
+C:\Users\ibadn\OneDrive\İş masası\ResumeBuilder_fixed\src\ResumeBuilder.Application\bin\Debug\net8.0\ResumeBuilder.Domain.pdb
+C:\Users\ibadn\OneDrive\İş masası\ResumeBuilder_fixed\src\ResumeBuilder.Application\obj\Debug\net8.0\ResumeBu.56B2C483.Up2Date
+C:\Users\ibadn\OneDrive\İş masası\ResumeBuilder_fixed\src\ResumeBuilder.Application\obj\Debug\net8.0\ResumeBuilder.Application.dll
+C:\Users\ibadn\OneDrive\İş masası\ResumeBuilder_fixed\src\ResumeBuilder.Application\obj\Debug\net8.0\refint\ResumeBuilder.Application.dll
+C:\Users\ibadn\OneDrive\İş masası\ResumeBuilder_fixed\src\ResumeBuilder.Application\obj\Debug\net8.0\ResumeBuilder.Application.pdb
+C:\Users\ibadn\OneDrive\İş masası\ResumeBuilder_fixed\src\ResumeBuilder.Application\obj\Debug\net8.0\ref\ResumeBuilder.Application.dll

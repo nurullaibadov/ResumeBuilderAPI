@@ -1,0 +1,80 @@
+2026-03-15 17:46:15.580 +04:00 [WRN] Entity 'Language' has a global query filter defined and is the required end of a relationship with the entity 'ResumeLanguage'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+2026-03-15 17:46:15.627 +04:00 [WRN] Entity 'Resume' has a global query filter defined and is the required end of a relationship with the entity 'ResumeSkill'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+2026-03-15 17:46:15.959 +04:00 [WRN] Entity 'Language' has a global query filter defined and is the required end of a relationship with the entity 'ResumeLanguage'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+2026-03-15 17:46:15.959 +04:00 [WRN] Entity 'Resume' has a global query filter defined and is the required end of a relationship with the entity 'ResumeSkill'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+2026-03-15 17:46:43.633 +04:00 [WRN] Entity 'Language' has a global query filter defined and is the required end of a relationship with the entity 'ResumeLanguage'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+2026-03-15 17:46:43.677 +04:00 [WRN] Entity 'Resume' has a global query filter defined and is the required end of a relationship with the entity 'ResumeSkill'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+2026-03-15 17:46:46.579 +04:00 [WRN] Entity 'Language' has a global query filter defined and is the required end of a relationship with the entity 'ResumeLanguage'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+2026-03-15 17:46:46.579 +04:00 [WRN] Entity 'Resume' has a global query filter defined and is the required end of a relationship with the entity 'ResumeSkill'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+2026-03-15 17:47:04.877 +04:00 [INF] User profile is available. Using 'C:\Users\ibadn\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2026-03-15 17:47:05.456 +04:00 [WRN] Entity 'Language' has a global query filter defined and is the required end of a relationship with the entity 'ResumeLanguage'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+2026-03-15 17:47:05.458 +04:00 [WRN] Entity 'Resume' has a global query filter defined and is the required end of a relationship with the entity 'ResumeSkill'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+2026-03-15 17:47:13.472 +04:00 [INF] Now listening on: https://localhost:56894
+2026-03-15 17:47:13.474 +04:00 [INF] Now listening on: http://localhost:56895
+2026-03-15 17:47:13.525 +04:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-03-15 17:47:13.527 +04:00 [INF] Hosting environment: Development
+2026-03-15 17:47:13.528 +04:00 [INF] Content root path: C:\Users\ibadn\OneDrive\İş masası\ResumeBuilder_fixed\src\ResumeBuilder.API
+2026-03-15 17:47:18.515 +04:00 [INF] Request starting HTTP/2 GET https://localhost:56894/ - null null
+2026-03-15 17:47:18.835 +04:00 [INF] HTTP GET / => 301 in 7ms
+2026-03-15 17:47:18.847 +04:00 [INF] Request finished HTTP/2 GET https://localhost:56894/ - 301 null null 334.4461ms
+2026-03-15 17:47:18.870 +04:00 [INF] Request starting HTTP/2 GET https://localhost:56894/index.html - null null
+2026-03-15 17:47:18.952 +04:00 [INF] HTTP GET /index.html => 200 in 71ms
+2026-03-15 17:47:18.958 +04:00 [INF] Request finished HTTP/2 GET https://localhost:56894/index.html - 200 null text/html;charset=utf-8 88.0449ms
+2026-03-15 17:47:19.419 +04:00 [INF] Request starting HTTP/2 GET https://localhost:56894/swagger-ui.css - null null
+2026-03-15 17:47:19.422 +04:00 [INF] Request starting HTTP/2 GET https://localhost:56894/swagger-ui-bundle.js - null null
+2026-03-15 17:47:19.422 +04:00 [INF] Request starting HTTP/2 GET https://localhost:56894/index.css - null null
+2026-03-15 17:47:19.423 +04:00 [INF] Request starting HTTP/2 GET https://localhost:56894/swagger-ui-standalone-preset.js - null null
+2026-03-15 17:47:19.423 +04:00 [INF] Request starting HTTP/2 GET https://localhost:56894/index.js - null null
+2026-03-15 17:47:19.424 +04:00 [INF] Request starting HTTP/2 GET https://localhost:56894/_framework/aspnetcore-browser-refresh.js - null null
+2026-03-15 17:47:19.494 +04:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2026-03-15 17:47:19.484 +04:00 [INF] HTTP GET /index.js => 200 in 1ms
+2026-03-15 17:47:19.492 +04:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2026-03-15 17:47:19.458 +04:00 [INF] Sending file. Request path: '/index.css'. Physical path: 'N/A'
+2026-03-15 17:47:19.499 +04:00 [INF] HTTP GET /swagger-ui-standalone-preset.js => 200 in 28ms
+2026-03-15 17:47:19.513 +04:00 [INF] Request finished HTTP/2 GET https://localhost:56894/_framework/aspnetcore-browser-refresh.js - 200 14939 application/javascript; charset=utf-8 89.2725ms
+2026-03-15 17:47:19.577 +04:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2026-03-15 17:47:19.580 +04:00 [INF] Request finished HTTP/2 GET https://localhost:56894/index.js - 200 null application/javascript;charset=utf-8 157.2485ms
+2026-03-15 17:47:19.597 +04:00 [INF] HTTP GET /swagger-ui.css => 200 in 156ms
+2026-03-15 17:47:19.600 +04:00 [INF] HTTP GET /index.css => 200 in 150ms
+2026-03-15 17:47:19.608 +04:00 [INF] Request finished HTTP/2 GET https://localhost:56894/swagger-ui-standalone-preset.js - 200 230293 text/javascript 184.1183ms
+2026-03-15 17:47:19.617 +04:00 [INF] HTTP GET /swagger-ui-bundle.js => 200 in 170ms
+2026-03-15 17:47:19.640 +04:00 [INF] Request finished HTTP/2 GET https://localhost:56894/swagger-ui.css - 200 152034 text/css 221.2033ms
+2026-03-15 17:47:19.643 +04:00 [INF] Request finished HTTP/2 GET https://localhost:56894/index.css - 200 202 text/css 220.9069ms
+2026-03-15 17:47:19.664 +04:00 [INF] Request finished HTTP/2 GET https://localhost:56894/swagger-ui-bundle.js - 200 1452753 text/javascript 241.947ms
+2026-03-15 17:47:19.675 +04:00 [INF] Request starting HTTP/2 GET https://localhost:56894/_vs/browserLink - null null
+2026-03-15 17:47:20.278 +04:00 [INF] Request starting HTTP/2 GET https://localhost:56894/index.js - null null
+2026-03-15 17:47:20.278 +04:00 [INF] Request starting HTTP/2 GET https://localhost:56894/_framework/aspnetcore-browser-refresh.js - null null
+2026-03-15 17:47:20.278 +04:00 [INF] Request starting HTTP/2 GET https://localhost:56894/swagger-ui-standalone-preset.js - null null
+2026-03-15 17:47:20.278 +04:00 [INF] Request starting HTTP/2 GET https://localhost:56894/swagger-ui-bundle.js - null null
+2026-03-15 17:47:20.301 +04:00 [INF] HTTP GET /index.js => 200 in 1ms
+2026-03-15 17:47:20.304 +04:00 [INF] Request finished HTTP/2 GET https://localhost:56894/_framework/aspnetcore-browser-refresh.js - 200 14939 application/javascript; charset=utf-8 25.8217ms
+2026-03-15 17:47:20.308 +04:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2026-03-15 17:47:20.317 +04:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2026-03-15 17:47:20.330 +04:00 [INF] Request finished HTTP/2 GET https://localhost:56894/index.js - 200 null application/javascript;charset=utf-8 51.8587ms
+2026-03-15 17:47:20.334 +04:00 [INF] HTTP GET /swagger-ui-standalone-preset.js => 200 in 28ms
+2026-03-15 17:47:20.339 +04:00 [INF] HTTP GET /swagger-ui-bundle.js => 200 in 30ms
+2026-03-15 17:47:20.363 +04:00 [INF] Request finished HTTP/2 GET https://localhost:56894/swagger-ui-bundle.js - 200 1452753 text/javascript 84.813ms
+2026-03-15 17:47:20.361 +04:00 [INF] Request finished HTTP/2 GET https://localhost:56894/swagger-ui-standalone-preset.js - 200 230293 text/javascript 83.189ms
+2026-03-15 17:47:20.355 +04:00 [INF] Request finished HTTP/2 GET https://localhost:56894/_vs/browserLink - 200 null text/javascript; charset=UTF-8 679.9717ms
+2026-03-15 17:47:21.388 +04:00 [INF] Request starting HTTP/2 GET https://localhost:56894/swagger/v1/swagger.json - null null
+2026-03-15 17:47:21.470 +04:00 [INF] HTTP GET /swagger/v1/swagger.json => 200 in 78ms
+2026-03-15 17:47:21.476 +04:00 [INF] Request finished HTTP/2 GET https://localhost:56894/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 88.2578ms
+2026-03-15 17:47:21.552 +04:00 [INF] Request starting HTTP/2 GET https://localhost:56894/favicon-32x32.png - null null
+2026-03-15 17:47:21.555 +04:00 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2026-03-15 17:47:21.556 +04:00 [INF] HTTP GET /favicon-32x32.png => 200 in 2ms
+2026-03-15 17:47:21.558 +04:00 [INF] Request finished HTTP/2 GET https://localhost:56894/favicon-32x32.png - 200 628 image/png 6.2615ms
+2026-03-15 17:47:24.033 +04:00 [INF] Request starting HTTP/2 GET https://localhost:56894/_vs/browserLink - null null
+2026-03-15 17:47:24.048 +04:00 [INF] Request finished HTTP/2 GET https://localhost:56894/_vs/browserLink - 200 null text/javascript; charset=UTF-8 14.9818ms
+2026-03-15 17:52:11.038 +04:00 [INF] Request starting HTTP/2 GET https://localhost:56894/index.html - null null
+2026-03-15 17:52:11.218 +04:00 [INF] HTTP GET /index.html => 200 in 47ms
+2026-03-15 17:52:11.224 +04:00 [INF] Request finished HTTP/2 GET https://localhost:56894/index.html - 200 null text/html;charset=utf-8 190.4112ms
+2026-03-15 17:52:11.371 +04:00 [INF] Request starting HTTP/2 GET https://localhost:56894/_framework/aspnetcore-browser-refresh.js - null null
+2026-03-15 17:52:11.371 +04:00 [INF] Request starting HTTP/2 GET https://localhost:56894/index.js - null null
+2026-03-15 17:52:11.397 +04:00 [INF] Request finished HTTP/2 GET https://localhost:56894/_framework/aspnetcore-browser-refresh.js - 200 14939 application/javascript; charset=utf-8 26.5113ms
+2026-03-15 17:52:11.401 +04:00 [INF] HTTP GET /index.js => 200 in 1ms
+2026-03-15 17:52:11.407 +04:00 [INF] Request finished HTTP/2 GET https://localhost:56894/index.js - 200 null application/javascript;charset=utf-8 36.0254ms
+2026-03-15 17:52:11.698 +04:00 [INF] Request starting HTTP/2 GET https://localhost:56894/_vs/browserLink - null null
+2026-03-15 17:52:11.724 +04:00 [INF] Request finished HTTP/2 GET https://localhost:56894/_vs/browserLink - 200 null text/javascript; charset=UTF-8 26.7207ms
+2026-03-15 17:52:12.377 +04:00 [INF] Request starting HTTP/2 GET https://localhost:56894/swagger/v1/swagger.json - null null
+2026-03-15 17:52:12.734 +04:00 [INF] HTTP GET /swagger/v1/swagger.json => 200 in 352ms
+2026-03-15 17:52:12.736 +04:00 [INF] Request finished HTTP/2 GET https://localhost:56894/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 358.69ms
